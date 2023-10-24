@@ -1,0 +1,11 @@
+C:\Users\Tinon\source\repos\HextoJpeg\bin\Release\HextoJpeg.exe.config
+C:\Users\Tinon\source\repos\HextoJpeg\bin\Release\HextoJpeg.exe
+C:\Users\Tinon\source\repos\HextoJpeg\bin\Release\HextoJpeg.pdb
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.csproj.AssemblyReference.cache
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.Form1.resources
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.Properties.Resources.resources
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.csproj.GenerateResource.cache
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.csproj.CoreCompileInputs.cache
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.exe
+C:\Users\Tinon\source\repos\HextoJpeg\obj\Release\HextoJpeg.pdb
