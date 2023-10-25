@@ -24,8 +24,11 @@ namespace HextoJpeg
         }
         private void btnConvert_Click(object sender, EventArgs e)
         {
-            string filepath = "C:\\image.jpeg";
-            File.WriteAllBytes(filepath,ConvertHexToByteArray(txtHex.Text));
+            string documentsPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            string filename = "image.jpeg";
+            string filepath = Path.Combine(documentsPath, filename);
+
+            File.WriteAllBytes(filepath, ConvertHexToByteArray(txtHex.Text));
             pbImagen.ImageLocation = filepath;
 
         }
@@ -55,5 +58,12 @@ namespace HextoJpeg
             return bytes;
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if(MessageBox.Show("Exit?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                Close();
+            }
+        }
     }
 }

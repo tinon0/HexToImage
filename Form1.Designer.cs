@@ -40,17 +40,18 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(530, 397);
+            this.button3.Location = new System.Drawing.Point(634, 468);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 22);
             this.button3.TabIndex = 5;
             this.button3.Text = "Exit";
             this.button3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // btnConvert
             // 
-            this.btnConvert.Location = new System.Drawing.Point(491, 49);
+            this.btnConvert.Location = new System.Drawing.Point(600, 49);
             this.btnConvert.Name = "btnConvert";
             this.btnConvert.Size = new System.Drawing.Size(75, 23);
             this.btnConvert.TabIndex = 6;
@@ -61,8 +62,9 @@
             // txtHex
             // 
             this.txtHex.Location = new System.Drawing.Point(34, 49);
+            this.txtHex.MaxLength = 100000;
             this.txtHex.Name = "txtHex";
-            this.txtHex.Size = new System.Drawing.Size(387, 20);
+            this.txtHex.Size = new System.Drawing.Size(536, 20);
             this.txtHex.TabIndex = 7;
             // 
             // label1
@@ -79,7 +81,7 @@
             this.groupBox1.Controls.Add(this.pbImagen);
             this.groupBox1.Location = new System.Drawing.Point(34, 89);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(532, 280);
+            this.groupBox1.Size = new System.Drawing.Size(675, 373);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Image";
@@ -88,7 +90,7 @@
             // 
             this.pbImagen.Location = new System.Drawing.Point(9, 19);
             this.pbImagen.Name = "pbImagen";
-            this.pbImagen.Size = new System.Drawing.Size(517, 255);
+            this.pbImagen.Size = new System.Drawing.Size(660, 348);
             this.pbImagen.TabIndex = 0;
             this.pbImagen.TabStop = false;
             // 
@@ -96,7 +98,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(617, 440);
+            this.ClientSize = new System.Drawing.Size(721, 502);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtHex);

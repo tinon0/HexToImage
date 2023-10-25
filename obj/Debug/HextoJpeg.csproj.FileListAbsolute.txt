@@ -9,3 +9,14 @@ C:\Users\Tinon\source\repos\HextoJpeg\obj\Debug\HextoJpeg.csproj.GenerateResourc
 C:\Users\Tinon\source\repos\HextoJpeg\obj\Debug\HextoJpeg.csproj.CoreCompileInputs.cache
 C:\Users\Tinon\source\repos\HextoJpeg\obj\Debug\HextoJpeg.exe
 C:\Users\Tinon\source\repos\HextoJpeg\obj\Debug\HextoJpeg.pdb
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.csproj.AssemblyReference.cache
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.Form1.resources
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.Properties.Resources.resources
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.csproj.GenerateResource.cache
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.csproj.CoreCompileInputs.cache
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.exe
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\obj\Debug\HextoJpeg.pdb
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\bin\Debug\HextoJpeg.exe.config
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\bin\Debug\HextoJpeg.exe
+C:\Users\Tinon\OneDrive\Escritorio\Hola\HexToImage\bin\Debug\HextoJpeg.pdb
